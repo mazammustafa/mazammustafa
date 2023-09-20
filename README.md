@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think I am Technical Person**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="inline-block">
 <a href="https://linkedin.com/in/muhammad-azam-mustafa-45b86821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-azam-mustafa-45b86821a" height="30" width="40" /></a>
 </p>
 
