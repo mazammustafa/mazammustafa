@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazammustafa" alt="mazammustafa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="YOUR_TWITTER_PROFILE_LINK_HERE" target="blank"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
+
 
 - 🔭 I’m currently working on [Insight Eye](1)
 
